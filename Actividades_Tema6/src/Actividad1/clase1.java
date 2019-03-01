@@ -10,5 +10,8 @@ package Actividad1;
  * @author alejandrocruz
  */
 public class clase1 {
+    public void hola(){
     
+    
+    }
 }
