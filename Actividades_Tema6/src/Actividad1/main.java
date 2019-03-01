@@ -11,6 +11,13 @@ package Actividad1;
  */
 public class main {
     public static void main(String[] args) {
-        System.out.println("Jose");
+
+       System.out.println("Jose");
+        if(true){
+            for (int i = 0; i < 10; i++) {
+                System.out.println("Hola");
+            }
+        }
+
     }
 }
