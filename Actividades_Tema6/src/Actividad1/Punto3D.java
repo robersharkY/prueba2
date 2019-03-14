@@ -17,4 +17,15 @@ public class Punto3D extends Punto2D{
         setY(y);
         this.z = z;
     }
+    /*
+        @Override
+    public String toString(){
+        return "("+getX()+" , "+getY()+z+")";
+    }
+    
+    */
+
+    public double getZ() {
+        return z;
+    }
 }

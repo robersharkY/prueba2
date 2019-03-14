@@ -3,17 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Actividad1;
-import java.util.Scanner;
+package Actividad2;
+
 /**
  *
  * @author alejandrocruz
  */
 public class main {
     public static void main(String[] args) {
-        Imprimir imprimir = new Imprimir();
-        imprimir.toString();
-    }
-    
+        System.out.println("");
+        entradas entradas =  new entradas();
+        entradas.toString();
 
+    }
 }

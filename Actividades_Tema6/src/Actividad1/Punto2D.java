@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package Actividad1;
-
 /**
  *
  * @author alejandrocruz
@@ -34,6 +33,7 @@ public class Punto2D {
         this.y = y;
     }
     
+    @Override
     public String toString(){
         return "("+this.x+" , "+this.y+")";
     }
